@@ -1,0 +1,6 @@
+# Created by .gitignore support plugin (hsz.mobi)
+out
+build
+.gradle
+.idea
+vertx-demo.iml
